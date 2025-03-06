@@ -22,3 +22,5 @@ docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 docker.elastic.co/kibana/kibana:8.14.3
 
 dify/dify:latest
+
+1panel/maxkb
