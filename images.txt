@@ -1,1 +1,1 @@
-qwenllm/qwen-omni
+docker.1ms.run/qwenllm/qwen-omni
