@@ -1,1 +1,1 @@
-mintplexlabs/anythingllm
+crosscc/umi-ocr
